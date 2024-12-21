@@ -1,6 +1,6 @@
 # TextEditor Memento Pattern
 
-Este repositório demonstra a implementação do **Padrão de Projeto Memento** em Java. O exemplo utiliza um simples `TextEditor` que permite salvar e restaurar seu estado, implementando uma funcionalidade de "desfazer".
+Este pequeno projeto demonstra a implementação do **Padrão de Projeto Memento** em Java. O exemplo utiliza um simples `TextEditor` que permite salvar e restaurar seu estado, implementando uma funcionalidade de "desfazer".
 
 ## Visão Geral do Padrão de Projeto
 
